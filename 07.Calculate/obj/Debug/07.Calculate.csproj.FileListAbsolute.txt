@@ -1,0 +1,6 @@
+c:\users\yani\documents\visual studio 2013\Projects\Loops\07.Calculate\bin\Debug\07.Calculate.exe.config
+c:\users\yani\documents\visual studio 2013\Projects\Loops\07.Calculate\bin\Debug\07.Calculate.exe
+c:\users\yani\documents\visual studio 2013\Projects\Loops\07.Calculate\bin\Debug\07.Calculate.pdb
+c:\users\yani\documents\visual studio 2013\Projects\Loops\07.Calculate\obj\Debug\07.Calculate.csprojResolveAssemblyReference.cache
+c:\users\yani\documents\visual studio 2013\Projects\Loops\07.Calculate\obj\Debug\07.Calculate.exe
+c:\users\yani\documents\visual studio 2013\Projects\Loops\07.Calculate\obj\Debug\07.Calculate.pdb

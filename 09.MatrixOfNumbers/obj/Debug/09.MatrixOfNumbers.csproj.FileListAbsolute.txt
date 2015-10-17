@@ -1,0 +1,5 @@
+c:\users\yani\documents\visual studio 2013\Projects\Loops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe.config
+c:\users\yani\documents\visual studio 2013\Projects\Loops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe
+c:\users\yani\documents\visual studio 2013\Projects\Loops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.pdb
+c:\users\yani\documents\visual studio 2013\Projects\Loops\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.exe
+c:\users\yani\documents\visual studio 2013\Projects\Loops\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.pdb

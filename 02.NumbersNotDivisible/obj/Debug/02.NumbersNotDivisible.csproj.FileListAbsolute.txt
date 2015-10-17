@@ -1,0 +1,5 @@
+c:\users\yani\documents\visual studio 2013\Projects\Loops\02.NumbersNotDivisible\bin\Debug\02.NumbersNotDivisible.exe.config
+c:\users\yani\documents\visual studio 2013\Projects\Loops\02.NumbersNotDivisible\bin\Debug\02.NumbersNotDivisible.exe
+c:\users\yani\documents\visual studio 2013\Projects\Loops\02.NumbersNotDivisible\bin\Debug\02.NumbersNotDivisible.pdb
+c:\users\yani\documents\visual studio 2013\Projects\Loops\02.NumbersNotDivisible\obj\Debug\02.NumbersNotDivisible.exe
+c:\users\yani\documents\visual studio 2013\Projects\Loops\02.NumbersNotDivisible\obj\Debug\02.NumbersNotDivisible.pdb
