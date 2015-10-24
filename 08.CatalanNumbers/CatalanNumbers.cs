@@ -4,10 +4,10 @@ namespace _08.CatalanNumbers
 {
     class CatalanNumbers
     {
-        static double fact(int number)//5 4 3 2 1
+        static double fact(int number) //5 4 3 2 1
         {
             if (number <= 1) return 1;
-            else return number * fact(number - 1);//5 * 4 * 3 * 2 * 1
+            else return number * fact(number - 1); //5 * 4 * 3 * 2 * 1
         }
         static void Main()
         {

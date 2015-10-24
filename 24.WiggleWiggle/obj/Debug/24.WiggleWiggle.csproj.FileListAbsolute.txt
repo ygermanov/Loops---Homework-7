@@ -1,0 +1,6 @@
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\24.WiggleWiggle\bin\Debug\24.WiggleWiggle.exe.config
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\24.WiggleWiggle\bin\Debug\24.WiggleWiggle.exe
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\24.WiggleWiggle\bin\Debug\24.WiggleWiggle.pdb
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\24.WiggleWiggle\obj\Debug\24.WiggleWiggle.csprojResolveAssemblyReference.cache
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\24.WiggleWiggle\obj\Debug\24.WiggleWiggle.exe
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\24.WiggleWiggle\obj\Debug\24.WiggleWiggle.pdb

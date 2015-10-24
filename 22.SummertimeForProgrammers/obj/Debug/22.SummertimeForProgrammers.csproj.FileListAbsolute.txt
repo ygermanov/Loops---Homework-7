@@ -1,0 +1,6 @@
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\22.SummertimeForProgrammers\bin\Debug\22.SummertimeForProgrammers.exe.config
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\22.SummertimeForProgrammers\bin\Debug\22.SummertimeForProgrammers.exe
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\22.SummertimeForProgrammers\bin\Debug\22.SummertimeForProgrammers.pdb
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\22.SummertimeForProgrammers\obj\Debug\22.SummertimeForProgrammers.csprojResolveAssemblyReference.cache
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\22.SummertimeForProgrammers\obj\Debug\22.SummertimeForProgrammers.exe
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\22.SummertimeForProgrammers\obj\Debug\22.SummertimeForProgrammers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\21.DetectivBoev\bin\Debug\21.DetectivBoev.exe.config
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\21.DetectivBoev\bin\Debug\21.DetectivBoev.exe
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\21.DetectivBoev\bin\Debug\21.DetectivBoev.pdb
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\21.DetectivBoev\obj\Debug\21.DetectivBoev.exe
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\21.DetectivBoev\obj\Debug\21.DetectivBoev.pdb

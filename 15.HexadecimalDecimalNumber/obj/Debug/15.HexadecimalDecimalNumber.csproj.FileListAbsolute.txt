@@ -1,0 +1,6 @@
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\15.HexadecimalDecimalNumber\bin\Debug\15.HexadecimalDecimalNumber.exe.config
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\15.HexadecimalDecimalNumber\bin\Debug\15.HexadecimalDecimalNumber.exe
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\15.HexadecimalDecimalNumber\bin\Debug\15.HexadecimalDecimalNumber.pdb
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\15.HexadecimalDecimalNumber\obj\Debug\15.HexadecimalDecimalNumber.csprojResolveAssemblyReference.cache
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\15.HexadecimalDecimalNumber\obj\Debug\15.HexadecimalDecimalNumber.exe
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\15.HexadecimalDecimalNumber\obj\Debug\15.HexadecimalDecimalNumber.pdb

@@ -53,6 +53,8 @@ namespace _04.PrintDeckOf52Cards
                         case 14:
                             Console.Write("A{0}",temp);
                             break;
+                        default:
+                            break;
 
                     }
                     Console.Write(" ");

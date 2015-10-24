@@ -1,0 +1,6 @@
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\23.LightTheTorches\bin\Debug\23.LightTheTorches.exe.config
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\23.LightTheTorches\bin\Debug\23.LightTheTorches.exe
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\23.LightTheTorches\bin\Debug\23.LightTheTorches.pdb
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\23.LightTheTorches\obj\Debug\23.LightTheTorches.csprojResolveAssemblyReference.cache
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\23.LightTheTorches\obj\Debug\23.LightTheTorches.exe
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\23.LightTheTorches\obj\Debug\23.LightTheTorches.pdb

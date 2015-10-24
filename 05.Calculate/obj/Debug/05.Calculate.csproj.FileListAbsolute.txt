@@ -3,3 +3,4 @@ c:\users\yani\documents\visual studio 2013\Projects\Loops\05.Calculate\bin\Debug
 c:\users\yani\documents\visual studio 2013\Projects\Loops\05.Calculate\bin\Debug\05.Calculate.pdb
 c:\users\yani\documents\visual studio 2013\Projects\Loops\05.Calculate\obj\Debug\05.Calculate.exe
 c:\users\yani\documents\visual studio 2013\Projects\Loops\05.Calculate\obj\Debug\05.Calculate.pdb
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\05.Calculate\obj\Debug\05.Calculate.csprojResolveAssemblyReference.cache

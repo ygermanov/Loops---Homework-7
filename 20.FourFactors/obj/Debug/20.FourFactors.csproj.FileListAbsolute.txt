@@ -1,0 +1,6 @@
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\20.FourFactors\bin\Debug\20.FourFactors.exe.config
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\20.FourFactors\bin\Debug\20.FourFactors.exe
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\20.FourFactors\bin\Debug\20.FourFactors.pdb
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\20.FourFactors\obj\Debug\20.FourFactors.csprojResolveAssemblyReference.cache
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\20.FourFactors\obj\Debug\20.FourFactors.exe
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\20.FourFactors\obj\Debug\20.FourFactors.pdb

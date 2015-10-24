@@ -1,0 +1,5 @@
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\14.DecimalBinaryNumber\bin\Debug\14.DecimalBinaryNumber.exe.config
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\14.DecimalBinaryNumber\bin\Debug\14.DecimalBinaryNumber.exe
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\14.DecimalBinaryNumber\bin\Debug\14.DecimalBinaryNumber.pdb
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\14.DecimalBinaryNumber\obj\Debug\14.DecimalBinaryNumber.exe
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\Loops\14.DecimalBinaryNumber\obj\Debug\14.DecimalBinaryNumber.pdb
